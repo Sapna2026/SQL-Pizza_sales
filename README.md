@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis | SQL Data Analytics Project
+#  Pizza Sales Analysis | SQL Data Analytics Project
 
 A SQL-based data analytics project focused on exploring pizza sales, understanding customer ordering patterns, evaluating product performance, and generating business insights to support data-driven decisions.
 
